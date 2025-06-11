@@ -1,0 +1,17 @@
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\bin\Debug\net8.0\NextGenGamingStore.BL.deps.json
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\bin\Debug\net8.0\NextGenGamingStore.BL.dll
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\bin\Debug\net8.0\NextGenGamingStore.BL.pdb
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\bin\Debug\net8.0\NextGenGamingStore.DL.dll
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\bin\Debug\net8.0\NextGenGamingStore.Models.dll
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\bin\Debug\net8.0\NextGenGamingStore.DL.pdb
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\bin\Debug\net8.0\NextGenGamingStore.Models.pdb
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\NextGenGamingStore.BL.csproj.AssemblyReference.cache
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\NextGenGamingStore.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\NextGenGamingStore.BL.AssemblyInfoInputs.cache
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\NextGenGamingStore.BL.AssemblyInfo.cs
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\NextGenGamingStore.BL.csproj.CoreCompileInputs.cache
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\NextGenG.25551083.Up2Date
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\NextGenGamingStore.BL.dll
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\refint\NextGenGamingStore.BL.dll
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\NextGenGamingStore.BL.pdb
+C:\Users\MISHO0202\Desktop\GameStore\NextGenGamingStore.BL\obj\Debug\net8.0\ref\NextGenGamingStore.BL.dll
